@@ -66,6 +66,5 @@ The Tableau workbook is not included because it embeds the raw sales data.
 ## Context and credits
 
 - Academic team project (4 members), completed during the M.Sc. in Applied Artificial Intelligence at Tecnológico de Monterrey.
-- **My role:** TODO — one or two lines on what you personally did (for example: which dashboard views you built, or the analysis you led).
-- **AI-use disclosure:** as stated on the last slide, Gemini was used to help structure the narrative and to check spelling and grammar. The analysis and visualizations were developed by the team.
-- **Data:** sales data used for an academic project. The raw data is not published here.
+- Co-developed the Tableau dashboard, specifically focusing on regional sales mapping, and led the data storytelling effort for the final executive deck.
+- Data was provided by tutors for academic purposes. No original data is shared here
