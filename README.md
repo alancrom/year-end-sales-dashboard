@@ -66,5 +66,5 @@ The Tableau workbook is not included because it embeds the raw sales data.
 ## Context and credits
 
 - Academic team project (4 members), completed during the M.Sc. in Applied Artificial Intelligence at Tecnológico de Monterrey.
-- Co-developed the Tableau dashboard, specifically focusing on regional sales mapping, and led the data storytelling effort for the final executive deck.
+- I led the dashboard design and the visual storytelling of the deck.
 - Data was provided by tutors for academic purposes. No original data is shared here
